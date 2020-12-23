@@ -1,5 +1,5 @@
 # INS_medical-image-fusion_code
-Preprint submitted to Information Sciences
+
 This package contains the code which is associated with the following paper:
 
 Xiaosong Li,Fuqiang Zhou, Haishu Tan et al. Multimodal Medical Image Fusion Based on Joint Bilateral
