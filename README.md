@@ -1,6 +1,6 @@
 # INS_medical-image-fusion_code
 
-This package contains the code which is associated with the following paper:
+This package contains the matlab code which is associated with the following paper:
 
 Xiaosong Li,Fuqiang Zhou, Haishu Tan et al. Multimodal Medical Image Fusion Based on Joint Bilateral
 Filter and Local Gradient Energy [J].Preprint submitted to Information Sciences.
