@@ -15,7 +15,7 @@ The demo files are script_gray.m and script_color.m.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Do let me know if you have any queries when using this code.
+Do not hesitate to let me know if you have any queries when using this code.
 
 
 Li Xiaosong,et al.   
