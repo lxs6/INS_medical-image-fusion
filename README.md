@@ -3,7 +3,7 @@
 This package contains the matlab code which is associated with the following paper:
 
 Xiaosong Li, Fuqiang Zhou, Haishu Tan et al. Multimodal Medical Image Fusion Based on Joint Bilateral
-Filter and Local Gradient Energy [J]. Information Sciences, 2021-04, Accept.
+Filter and Local Gradient Energy [J]. Information Sciences, 2021, 569, 305-325. https://doi.org/10.1016/j.ins.2021.04.052
 
 Usage of this code is free for research purposes only. 
 
