@@ -8,7 +8,16 @@ addpath functions;
 
 A=imread('01 MR-T1.tif');  B=imread('01 MR-T2.tif');     % source images
 A = im2double(A);    B = im2double(B);   
+
+if size(A,3)==3
+    A=rgb2gray(A);   
+end
+if size(B,3)==3
+    B=rgb2gray(B); 
+end
+
 figure,imshow(A);    figure,imshow(B);
+
 %% parameters          
 s=3;    r=0.05;   N=4;    T=21; 
 tic
